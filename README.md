@@ -1,6 +1,6 @@
 # QATestingEntrevistaRepo
 
 Required Libraries:
-Requests
-Pytest
+Requests,
+Pytest,
 jsonschema
